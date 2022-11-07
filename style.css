@@ -1,18 +1,20 @@
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 481px) and (max-width: 767px) {
+
     body{
-        background-color: #2b2b2b;
-        color: black;
+        background-color: white;
+        color: white;
     }
     
     div {
-        margin-left: 140px;
-        margin-top: 70px;
+        margin-left: 20px;
+        margin-top: 300px;
     }
     
     h2{
         margin-left: 170px;
         font-size: 25px;
         text-decoration: underline;
+        margin-left: 36px;
     }
     
     h3 {
@@ -33,11 +35,11 @@
         border-radius: 15px;
         border-color: white;
         padding: 10px;
-        width: 700px;
+        width: 450px;
         height: 800px;
-        background-color: white;
+        background-color: #2b2b2b;
         margin-top: 50px;
-        margin-left: 100px;
+        margin-left: 0px;
     }
 }
 
