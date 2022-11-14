@@ -1,13 +1,13 @@
 body {
-        background: #26262686 url("imagens/curriculo.jpg");
-        margin-left: 600px;
+        background: #262626;
+        margin-left: 100px;
     }
 
     #home {
         background-color: white;
         border: 2px solid;
         border-radius: 15px;
-        border-color: white;
+        border-color: blackwhite;
         padding: 10x;
         width: 700px;
         height: 700px;
@@ -28,4 +28,22 @@ body {
     h2 {
         margin-left: 25%;
         margin-top: 130px;
+    }
+
+    #foto {
+        width: 135px;
+        margin-left: 270px;
+        margin-top: 2px;
+        position: absolute;
+        border: 2px solid;
+        border-radius: 15px;
+        border-color: white;
+    }
+
+    #dados {
+        margin-top: -10px;
+    }
+
+    #hr-1 {
+        margin-top: 150px;
     }
